@@ -1,0 +1,5 @@
+com\nisum\springannotations\config\HelloWorldConfiguration.class
+com\nisum\springannotations\config\SecurityWebApplicationInitializer.class
+com\nisum\springannotations\config\SpringMvcInitializer.class
+com\nisum\springannotations\config\SecurityConfiguration.class
+com\nisum\springannotations\controller\HelloWorldController.class
